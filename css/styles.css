@@ -129,6 +129,10 @@ p.user-location {
 	margin: 0rem;
 	color: var(--white)
 }
+.btn:hover {
+	background-color: var(--green);
+	color: var(--grey800)
+}
 
 .attribution {
 	font-size: 11px; text-align: center; 
