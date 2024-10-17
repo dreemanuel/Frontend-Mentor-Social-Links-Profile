@@ -10,8 +10,6 @@
 p {
 	font-size: 14px;
 }
-h1 {
-}
 
 :root {
 	--green: hsl(75, 94%, 57%);
@@ -35,7 +33,7 @@ h1 {
 .slightly-opaque {
 	opacity: 0.7;
 }
-
+/* format links to default no styling */
 a {
 	text-decoration: none;
 	text-transform: none;
